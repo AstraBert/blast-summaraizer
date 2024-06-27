@@ -1,0 +1,3 @@
+gradio
+gradio_client
+requests
